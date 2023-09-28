@@ -15,3 +15,8 @@ Interactive Charts: Interactive charts and graphs that enable users to explore d
 Export and Share: Export data and reports for further analysis or share them with stakeholders.
 
 
+
+
+![Dashboard](https://github.com/Surajlambor/PowerBi_DashBoard-For-HR-ANALYTICS/assets/138770310/c8de868c-094f-441f-bdd5-05a6db67302f)
+![dash2](https://github.com/Surajlambor/PowerBi_DashBoard-For-HR-ANALYTICS/assets/138770310/8224330e-db8b-4a3b-8279-c230b038df33)
+![Sales](https://github.com/Surajlambor/PowerBi_DashBoard-For-HR-ANALYTICS/assets/138770310/4eee6040-e967-4603-ad0c-8f529e8118ba)
